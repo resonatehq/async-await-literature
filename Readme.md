@@ -29,7 +29,7 @@ This **reading list** explores the foundational literature that informs the desi
 
 ## Sequential Programming Models & Event-Driven Execution Models
 
-### [Cooperative Task Management without Manual Stack Management](https://dl.acm.org/doi/10.1145/99998.100020)
+### [Cooperative Task Management without Manual Stack Management](https://web.eecs.umich.edu/~mosharaf/Readings/Fibers-Coop-Tasks.pdf)
 * **Author(s):** Atul Adya, Jon Howell, Marvin Theimer, William J. Bolosky, John R. Douceur
 * **Published:** 2002
 * **Summary:** This paper is a foundational contribution to understanding how sequential programming model can be implemented on top of a event-driven execution model. Additionally, the paper introduces the notion of *stack ripping* as the primary reason for the subpar developer experience of event-based implementations.
